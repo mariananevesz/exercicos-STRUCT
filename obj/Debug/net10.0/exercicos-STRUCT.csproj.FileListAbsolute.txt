@@ -12,3 +12,4 @@ C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\ref
 C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.pdb
 C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.genruntimeconfig.cache
 C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\ref\exercicos-STRUCT.dll
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.sourcelink.json
