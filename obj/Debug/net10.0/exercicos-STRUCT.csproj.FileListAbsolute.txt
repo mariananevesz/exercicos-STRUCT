@@ -1,0 +1,14 @@
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\bin\Debug\net10.0\exercicos-STRUCT.exe
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\bin\Debug\net10.0\exercicos-STRUCT.deps.json
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\bin\Debug\net10.0\exercicos-STRUCT.runtimeconfig.json
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\bin\Debug\net10.0\exercicos-STRUCT.dll
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\bin\Debug\net10.0\exercicos-STRUCT.pdb
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.AssemblyInfoInputs.cache
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.AssemblyInfo.cs
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.csproj.CoreCompileInputs.cache
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.dll
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\refint\exercicos-STRUCT.dll
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.pdb
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\exercicos-STRUCT.genruntimeconfig.cache
+C:\Users\neves\OneDrive\Área de Trabalho\exercicos-STRUCT\obj\Debug\net10.0\ref\exercicos-STRUCT.dll
