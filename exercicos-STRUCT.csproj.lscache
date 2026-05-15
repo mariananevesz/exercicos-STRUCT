@@ -56,6 +56,8 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 [sourceFiles]
 exercicio1.cs
 exercicio2.cs
+exercicio3.cs
+exercicio4.cs
 obj/Debug/net10.0/
  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
  exercicos-STRUCT.AssemblyInfo.cs
